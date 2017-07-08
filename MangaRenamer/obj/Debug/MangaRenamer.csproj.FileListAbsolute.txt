@@ -1,0 +1,8 @@
+Z:\Projects\New folder\MangaRenamer\MangaRenamer\bin\Debug\MangaRenamer.exe.config
+Z:\Projects\New folder\MangaRenamer\MangaRenamer\bin\Debug\MangaRenamer.exe
+Z:\Projects\New folder\MangaRenamer\MangaRenamer\bin\Debug\MangaRenamer.pdb
+Z:\Projects\New folder\MangaRenamer\MangaRenamer\obj\Debug\MangaRenamer.csproj.GenerateResource.Cache
+Z:\Projects\New folder\MangaRenamer\MangaRenamer\obj\Debug\MangaRenamer.exe
+Z:\Projects\New folder\MangaRenamer\MangaRenamer\obj\Debug\MangaRenamer.pdb
+Z:\Projects\New folder\MangaRenamer\MangaRenamer\obj\Debug\MangaRenamer.csprojResolveAssemblyReference.cache
+Z:\Projects\New folder\MangaRenamer\MangaRenamer\obj\Debug\MangaRenamer.RenamerForm.resources
